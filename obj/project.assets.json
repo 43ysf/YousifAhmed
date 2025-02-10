@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yousif\\Desktop\\New folder (5)\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\Yousif\\Desktop\\TestProject\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "C:\\Users\\Yousif\\Desktop\\New folder (5)\\MyApp\\MyApp.csproj",
+      "projectPath": "C:\\Users\\Yousif\\Desktop\\TestProject\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\Yousif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yousif\\Desktop\\New folder (5)\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\Yousif\\Desktop\\TestProject\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
