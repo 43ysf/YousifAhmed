@@ -1,0 +1,12 @@
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\bin\Debug\net8.0\dbl.deps.json
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\bin\Debug\net8.0\dbl.dll
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\bin\Debug\net8.0\dbl.pdb
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\dbl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\dbl.AssemblyInfoInputs.cache
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\dbl.AssemblyInfo.cs
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\dbl.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\dbl.sourcelink.json
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\dbl.dll
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\refint\dbl.dll
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\dbl.pdb
+C:\Users\Yousif\Desktop\TestProject\MyApp\dbl\obj\Debug\net8.0\ref\dbl.dll
